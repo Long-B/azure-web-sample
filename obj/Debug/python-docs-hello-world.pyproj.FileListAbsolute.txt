@@ -1,0 +1,3 @@
+C:\Users\v-bolong\python-docs-hello-world\obj\Debug\python-docs-hello-world.pyproj.CoreCompileInputs.cache
+C:\Users\v-bolong\python-docs-hello-world\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\v-bolong\python-docs-hello-world\bin\wfastcgi.py
